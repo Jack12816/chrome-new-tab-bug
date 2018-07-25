@@ -1,2 +1,4 @@
-[13300:13300:0306/143424.890237:WARNING:password_store_factory.cc(241)] Using basic (unencrypted) store for password storage. See https://chromium.googlesource.com/chromium/src/+/master/docs/linux_password_storage.md for more information about password storage options.
-[13300:13300:0306/143425.372315:WARNING:render_frame_host_impl.cc(2728)] OnDidStopLoading was called twice.
+[8122:8122:0306/163754.146029:WARNING:password_store_factory.cc(241)] Using basic (unencrypted) store for password storage. See https://chromium.googlesource.com/chromium/src/+/master/docs/linux_password_storage.md for more information about password storage options.
+[8122:8142:0306/163756.674646:ERROR:object_proxy.cc(549)] Rejecting a message from a wrong sender.
+[8122:8142:0306/163756.676724:ERROR:object_proxy.cc(549)] Rejecting a message from a wrong sender.
+[8122:8122:0306/163805.183388:WARNING:render_frame_host_impl.cc(2728)] OnDidStopLoading was called twice.

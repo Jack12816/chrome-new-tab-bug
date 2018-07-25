@@ -35,7 +35,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  bundler (>= 1.8.4)
+  bundler (>= 1.16.0)
   capybara (~> 2.15)
   capybara-selenium (~> 0.0.6)
   selenium-webdriver (~> 3.10)
